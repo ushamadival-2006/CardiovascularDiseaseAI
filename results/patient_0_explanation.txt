@@ -1,0 +1,31 @@
+
+======================================================================
+HEART DISEASE RISK PREDICTION - PATIENT #0
+======================================================================
+
+PREDICTION: LOW RISK (15.9% probability of heart disease)
+
+======================================================================
+TOP RISK FACTORS (Increase Disease Risk):
+======================================================================
+  • height               =   168.00  (contribution: +0.0484)
+  • smoke                =     0.00  (contribution: +0.0198)
+  • alco                 =     0.00  (contribution: +0.0113)
+
+======================================================================
+PROTECTIVE FACTORS (Decrease Disease Risk):
+======================================================================
+  • ap_hi                =   110.00  (contribution: -0.6375)
+  • pulse_pressure       =    30.00  (contribution: -0.3338)
+  • age_years            =    50.00  (contribution: -0.3129)
+
+======================================================================
+MODEL INTERPRETATION:
+======================================================================
+This prediction is based on 13 medical features analyzed by the trained
+heart disease prediction model. The SHAP values above show how much each
+feature contributes to pushing the prediction toward disease risk.
+
+IMPORTANT: This is a machine learning model prediction, not a medical
+diagnosis. Always consult with a healthcare professional for medical advice.
+======================================================================

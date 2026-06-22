@@ -1,0 +1,14 @@
+Feature,Importance
+ap_hi,0.36106202
+ap_lo,0.21163546
+cholesterol,0.103652835
+pulse_pressure,0.097520836
+age_years,0.08284302
+active,0.0287515
+gluc,0.02197355
+BMI,0.019005284
+smoke,0.01885817
+weight,0.017106326
+alco,0.015094542
+gender,0.012792129
+height,0.009704376
